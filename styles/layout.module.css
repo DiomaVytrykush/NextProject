@@ -1,0 +1,16 @@
+.layout {
+    height: 60px;
+    padding: 10px;
+    left: 0;
+    top: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    background-color: whitesmoke;
+}
+
+.main {
+    margin-top: 60px;
+}
